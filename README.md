@@ -32,7 +32,7 @@ The findings are validated and verified to ensure accuracy and reliability.
 ### 4.Average Price by Airline:
 -> Vistara Airline has Highest Average in Ticket Prices - 30401
 -> AirAsia Airline has lowest Average - 4090
-### 5.Flight Duration and Price comparision according class:
+### 5.Flight Duration and Price comparision according to class:
 -> Business class Tickets are more priced and mostly concentrated in mid level Durations
 -> Economy class Tickets are low priced for all Durations
 ### 6.Departure Time Trends:
