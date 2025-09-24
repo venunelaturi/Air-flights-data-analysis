@@ -18,3 +18,28 @@ Data visualization techniques are used to present the findings in a clear and co
 The analysis results are interpreted to generate actionable insights and recommendations for airlines and travel companies.
 ### 7. Validation and Verification: 
 The findings are validated and verified to ensure accuracy and reliability.
+## Key features
+### 1.Airline flights occupancy count:
+-> Vistara airline with highest occupancy - 127806 
+-> Air India with second highest count - 80853
+-> spicejet is at last position with -9005
+### 2.Source city to Destination city by Duration:
+-> chennai to kolkata flight has highest Duration.
+-> Delhi to Mumbai flight takes lowest Duration.
+### 3.Price Distribution:
+-> Most prices are < 20000
+-> Price Distribution descrease as the price increases.
+### 4.Average Price by Airline:
+-> Vistara Airline has Highest Average in Ticket Prices - 30401
+-> AirAsia Airline has lowest Average - 4090
+### 5.Flight Duration and Price comparision according class:
+-> Business class Tickets are more priced and mostly concentrated in mid level Durations
+-> Economy class Tickets are low priced for all Durations
+### 6.Departure Time Trends:
+More pricing ranges are found at Nights and low priced range at Late nights.
+### 7.Stops with prices:
+More pricing ranges for one stop flight and least for zero stops during Travel.
+### 8.Source to Destination on price consideration:
+Chennai to Bangalore trip is highest priced and Delhi to Hyderabad is lowest priced Trip.
+### 9. Price Trendline with Days Left:
+As the Days reducing pricing increase to fly.
