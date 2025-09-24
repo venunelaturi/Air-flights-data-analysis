@@ -1,3 +1,4 @@
 # Airlines-Flights-Data-Analysis
 # Objective
-To clean and Analyze Airline data, and find meaningfull insights. Using pandas and seaborn libraries of python for Exploritary analysis of data.
+The primary objective of this project is to conduct an in-depth analysis of airline data to uncover key trends, patterns, and insights that can inform business decisions and enhance customer experience. By leveraging Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, aim to explore flight patterns, pricing dynamics, and customer preferences.
+
