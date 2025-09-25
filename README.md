@@ -43,4 +43,9 @@ More pricing ranges for one stop flight and least for zero stops during Travel.
 Chennai to Bangalore trip is highest priced and Delhi to Hyderabad is lowest priced Trip.
 ### 9. Price Trendline with Days Left:
 As the Days reducing pricing increase to fly.
-
+## Business Recommendations:
+1.Improve pricing strategies to adjust ticket prices based on demand, departure time, and days left before departure. 
+2.Identify the most popular routes and adjust capacity accordingly to meet demand.
+3.Analyze customer preferences for different airlines, classes, and routes to improve customer satisfaction.
+4.Analyze the profitability of different routes and adjust pricing or capacity to optimize revenue.
+## Future 
