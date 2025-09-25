@@ -52,5 +52,5 @@ As the Days reducing pricing increase to fly.
 1. Integrate real-time data for timely insights
 2. Develop machine learning models for predictive analytics
 3. Implement advanced data visualization techniques
-4. Conduct sentiment analysis on customer feedback
-5. Leverage cloud-based infrastructure and big data technologies
+
+   
